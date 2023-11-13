@@ -1,4 +1,3 @@
-1
 
 # **Sketch-to-Photo, Image-to-Image Translation with GAN**
 
